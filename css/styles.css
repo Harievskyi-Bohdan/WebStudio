@@ -7,3 +7,32 @@
     
 
 }
+body {
+font-family: 'Roboto';
+
+
+}
+.logo {
+    font-family: 'Raleway';
+}
+.hero-text {
+    line-height: 1.36;
+}
+.hero-button {
+    line-height: 1.875;
+}
+.section2-list-item-text {
+    line-height: 1.71;
+}
+address {
+    line-height: 1.71;
+}
+.mainlist-item {
+    line-height: 1.625;
+}
+.box-title {
+    line-height: 2;
+}
+.box-text {
+    line-height: 1.875;
+}
