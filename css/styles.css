@@ -15,6 +15,9 @@ font-family: 'Roboto';
 .logo {
     font-family: 'Raleway';
 }
+.logo2 {
+    font-family: 'Raleway';
+}
 .hero-text {
     line-height: 1.36;
 }
@@ -37,9 +40,57 @@ address {
     line-height: 1.875;
 }
 .container{
-padding-left: 15px;
-padding-right: 15px;
-width: 1170px;
-margin-left: auto;
-margin-right: auto;
+max-width: 1170px;
+margin: 0 auto;
+padding: 0 15px;
+
+}
+.nav-list{
+padding-top: 32px;
+}
+.logo {
+    text-decoration: none;
+    
+}
+.hero-text {
+    margin-top: 200px;
+}
+.section2-list {
+    list-style: none;
+    margin-top: 94px;
+    margin-bottom: 94px;
+}
+.section3-list {
+    list-style: none;
+    padding-bottom: 94px;
+}
+.sectionteam-title {
+margin-top: 94px;
+margin-bottom: 50px;
+
+
+
+}
+.sectionteam-list {
+    margin-bottom: 94px;
+    list-style: none;
+}
+.logo2 {
+    margin-top: 60px;
+}
+.sectionteam-list-item-text {
+    padding-bottom: 94px;
+}
+.phone {
+    margin-bottom: 60px;
+}
+.mainlist {
+margin-top: 94px;
+margin-bottom: 50px;
+
+}
+.box-list {
+list-style: none;
+padding-bottom: 94px;
+
 }
